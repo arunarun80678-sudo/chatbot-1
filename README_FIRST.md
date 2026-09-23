@@ -1,0 +1,1 @@
+Part 1 contains 25 independent Flask + Gemini 3.1 Flash-Lite chatbot projects. Each has app.py, config.py, .env, requirements.txt, README.md, templates/index.html and static/style.css.
